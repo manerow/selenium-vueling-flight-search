@@ -44,6 +44,8 @@ Icon
 # Exclude Folder List #
 .gradle/
 build/
+# Include gradle wrapper
+!gradle-wrapper.jar
 
 
 ### Eclipse ###
